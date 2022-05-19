@@ -8,7 +8,7 @@
   4. Kafka - TEST 진행중.
 
 --------------------
-### Development environment
+### Development environment(offline)
   - Eclipse(2020-12 (4.18.0)) STS
   - Spring Boot4
   - Java11
