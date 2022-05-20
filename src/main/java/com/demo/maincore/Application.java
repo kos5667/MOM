@@ -41,19 +41,19 @@ public class Application {
         listener.latch.await(10, TimeUnit.SECONDS);
 
 
-        for (int i = 0; i < 5; i++) {
-            producer.sendMessageToPartion("Hello To Partioned Topic!", i);
-        }
-        listener.partitionLatch.await(10, TimeUnit.SECONDS);
-
-
-        producer.sendMessageToFiltered("Hello Baeldung!");
-        producer.sendMessageToFiltered("Hello World!");
-        listener.filterLatch.await(10, TimeUnit.SECONDS);
-
-
-//        producer.sendGreetingMessage(new Greeting("Greetings", "World!"));
-        listener.greetingLatch.await(10, TimeUnit.SECONDS);
+//        for (int i = 0; i < 5; i++) {
+//            producer.sendMessageToPartion("Hello To Partioned Topic!", i);
+//        }
+//        listener.partitionLatch.await(10, TimeUnit.SECONDS);
+//
+//
+//        producer.sendMessageToFiltered("Hello Baeldung!");
+//        producer.sendMessageToFiltered("Hello World!");
+//        listener.filterLatch.await(10, TimeUnit.SECONDS);
+//
+//
+////        producer.sendGreetingMessage(new Greeting("Greetings", "World!"));
+//        listener.greetingLatch.await(10, TimeUnit.SECONDS);
 
         context.close();
 	}

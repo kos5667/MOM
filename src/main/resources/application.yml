@@ -11,7 +11,7 @@ partitioned:
   topic:
     name: partitioned
 kafka:
-  bootstrapAddress: localhost:8080
+  bootstrapAddress: localhost:9092
 
 spring:
   profiles:
