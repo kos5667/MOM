@@ -40,5 +40,16 @@ spring:
 #      topic-4: batch4
 #    bootstrapAddress: localhost:9092
     
+# DB - postgresql
+# spring.demo.datasource.driver-class-name=org.postgresql.Driver
+# spring.demo.datasource.jdbc-url=jdbc:postgresql://10.47.36.66:5432/postgres
+# spring.demo.datasource.username=postgres
+# spring.demo.datasource.password=postgres
+
+#logback
+# logging.level.org.geopaas.api=debug
+#logging.file.name=/NDATA3/platform/logs/api-pip/api-pip.log
+#logging.file.max-size=50MB
+#logging.file.max-history=10
       
       
