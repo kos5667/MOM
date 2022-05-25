@@ -47,7 +47,7 @@ spring:
 # spring.demo.datasource.password=postgres
 
 #logback
-# logging.level.org.geopaas.api=debug
+#logging.level.org.geopaas.api=debug
 #logging.file.name=/NDATA3/platform/logs/api-pip/api-pip.log
 #logging.file.max-size=50MB
 #logging.file.max-history=10
