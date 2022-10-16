@@ -11,23 +11,37 @@
 > <summary><strong>RabbitMQ</strong></summary>
 >     <!-- -->
 > </details>
->
-> <details>
+><details>
 > <summary><strong>Redis</strong></summary>
->     <!-- -->
-> </details>
-
-## Kafka
+>  <!-- -->
+>    </details>
 
 
 
-## RabbitMQ
+## MOM Summary
+
+**MOM 이란 ?**
+
+**MOM 특징**
+
+**MQ(Message Queue) 란?**
+
+내용
+
+- 장점
+- 단점
 
 
 
-## Redis
+**오픈소스 메시지 큐**
 
+- RabbitMQ
+- ActiveMQ
+- ZeroMQ
+- Kafka
+- Redis
 
+---
 
 > **참조**
 >
