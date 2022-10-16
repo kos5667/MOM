@@ -3,20 +3,21 @@
 > **목차**
 >
 > <details>
-> <summary><strong>Kafak</strong></summary>
->     <!-- -->
+> <summary><strong><a href="./Kafak/README.md">Kafak</a></strong></summary>
+>  <!-- -->
 > </details>
 >
 > <details>
-> <summary><strong>RabbitMQ</strong></summary>
->     <!-- -->
-> </details>
-><details>
-> <summary><strong>Redis</strong></summary>
+> <summary><strong><a href="./RabbitMQ/README.md">RabbitMQ</a></strong></summary>
 >  <!-- -->
->    </details>
+> </details>
+>
+> <details>
+> <summary><a href="./Redis/README.md"><strong>Redis</strong></a></summary>
+>  <!-- -->
+> </details>
 
-
+---
 
 ## MOM Summary
 
@@ -35,11 +36,11 @@
 
 **오픈소스 메시지 큐**
 
-- [RabbitMQ](./RabbitMQ/README.md)
+- RabbitMQ
 - ActiveMQ
 - ZeroMQ
-- [Kafka](./Kafka/README.md)
-- [Redis](./Redis/README.md)
+- Kafka
+- Redis
 
 ---
 
