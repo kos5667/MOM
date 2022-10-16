@@ -12,12 +12,16 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping(value = "/sample")
 public class SampleController {
 
-    @Value("${docker-kafka.ip}")
+    @Value("${docker-kafka-ip}")
     private String ip;
+
+    @Value("${spring.kafka.consumer.group-id}")
+    private String groupId;
 
 
     @GetMapping(value = "/request")
     public void index() {
+        System.out.println(groupId);
         System.out.println("Sample in.. request ip : " + ip);
     }
 }

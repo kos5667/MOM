@@ -1,7 +1,5 @@
 # docker ip
-docker-kafka:
-  ip: 192.168.0.5
-  port: 9006
+docker-kafka-ip: 192.168.0.5:9092
 
 spring:
   # Datasource
@@ -16,3 +14,9 @@ spring:
     properties:
       hibernate:
         format_sql: true
+  # Kafka
+  kafka:
+    consumer:
+      group-id: group-demo
+
+  
