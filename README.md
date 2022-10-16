@@ -3,7 +3,7 @@
 > **목차**
 >
 > <details>
-> <summary><strong><a href="./Kafak/README.md">Kafak</a></strong></summary>
+> <summary><strong><a href="./Kafka/README.md">Kafka</a></strong></summary>
 >  <!-- -->
 > </details>
 >
