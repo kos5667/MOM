@@ -23,7 +23,11 @@
 
 **MOM 이란 ?**
 
+
+
 **MOM 특징**
+
+
 
 **MQ(Message Queue) 란?**
 

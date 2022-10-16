@@ -9,11 +9,8 @@
 
 --------------------
 ### Development environment(offline)
-  - Eclipse(2020-12 (4.18.0)) STS
-  - Spring Boot 2.6
+  - Spring Boot 2.7
   - Java11
-  - Maven
+  - Gradle
   - Kafka
   - Debezium
-
-  
