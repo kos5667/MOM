@@ -1,3 +1,8 @@
+# docker ip
+docker-kafka:
+  ip: 192.168.0.5
+  port: 9006
+
 spring:
   # Datasource
   datasource:
