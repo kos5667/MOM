@@ -1,10 +1,5 @@
 ## Kafka
 
-> **version**
->
-> - 
-> - 
-
 --------------------
 ### Kafka를 활용한 CDC, Change Data Capture Test
 

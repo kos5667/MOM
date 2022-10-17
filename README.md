@@ -77,16 +77,28 @@
 
 
 
-**오픈소스 메시지 큐**
+> ###### **용어**
+>
+> | 보내는 쪽 |  받는 쪽   |
+> | :-------: | :--------: |
+> |  Sender   |  Receiver  |
+> | Producer  |  Consumer  |
+> | Publisher | Subscriber |
 
-- RabbitMQ
-- ActiveMQ
-- ZeroMQ
-- Kafka
-- Redis
+
+
+> **오픈소스 메시지 큐**
+>
+> - RabbitMQ
+> - ActiveMQ
+> - ZeroMQ
+> - Kafka
+> - Redis
+>
 
 ---
 
 > **참조**
 >
-> 
+> - https://tinyurl.com/2jzprsk5
+> - https://tinyurl.com/2pg4euz3
