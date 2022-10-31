@@ -4,5 +4,12 @@ Redis는 Memcached와 비슷한 `캐시 시스템`으로서 동일한 기능을 
 
 #### Load Balance
 
+#### 분산처리
 
 
+
+> 참조
+>
+> https://loosie.tistory.com/820
+>
+> 
