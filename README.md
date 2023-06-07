@@ -13,7 +13,7 @@
 > </details>
 >
 > <details>
-> <summary><a href="./Redis/README.md"><strong>Redis</strong></a></summary>
+> <summary><a href="https://github.com/kos5667/Redis-Doc"><strong>Redis</strong></a></summary>
 >  <!-- -->
 > </details>
 
